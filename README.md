@@ -22,7 +22,7 @@
 
 - 💻 &nbsp; Java 
 - 🛢 &nbsp; MySQL 
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
+- 🔧 &nbsp; Eclipse | Git
 
 
 <!--
