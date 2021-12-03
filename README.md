@@ -2,13 +2,11 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmaengju&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<!-- <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/about.png?raw=true"/> -->
 ## About ME
 
 - 🌱 I’m currently learning Backend
 - 📫 How to reach me: maeng8588@gmail.com
 
-<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/skills.png?raw=true">
 ## My skills
 
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
