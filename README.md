@@ -20,7 +20,7 @@
 ![java](https://img.shields.io/badge/-java-grey?style=for-the-badge&logo=java&logoColor=white&labelColor=8E2DE2)
 ![mariadb](https://img.shields.io/badge/-mariadb-grey?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=8E2DE2)
 
-- 💻 &nbsp; Python | Java 
+- 💻 &nbsp; Java 
 - 🛢 &nbsp; MySQL 
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
 
