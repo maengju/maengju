@@ -8,11 +8,7 @@
 - 🌱 I’m currently learning Backend
 - 📫 How to reach me: maeng8588@gmail.com
 
-<!-- <h3> 👨🏻‍💻 About Me </h3> -->
-
-<!-- <h3>🛠 Tech Stack</h3> -->
-
-<!-- <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/skills.png?raw=true"> -->
+<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/skills.png?raw=true">
 ## My skills
 
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
