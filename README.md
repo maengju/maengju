@@ -1,5 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmaengju&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 <h2> Hi there 👋 I'm maengju </h2>
 
 ## About ME
@@ -39,6 +37,8 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=maengju&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maengju&theme=radical&title_color=8E2DE2&text_color=fff)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmaengju&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 <h3> 🤝🏻 Connect with Me </h3>
