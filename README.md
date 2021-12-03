@@ -10,7 +10,7 @@
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
 ![java](https://img.shields.io/badge/-java-grey?style=for-the-badge&logo=java&logoColor=white&labelColor=8E2DE2)
-![](https://img.shields.io/badge/-mariadb-grey?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=8E2DE2)
+
 
 - 💻 &nbsp; Java 
 - 🛢 &nbsp;  
