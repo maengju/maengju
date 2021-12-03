@@ -6,7 +6,7 @@
 ## About ME
 
 - 🌱 I’m currently learning Backend
-- 📫 How to reach me: rlaalsrlzld@naver.com
+- 📫 How to reach me: maeng8588@gmail.com
 
 <!-- <h3> 👨🏻‍💻 About Me </h3> -->
 
