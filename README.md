@@ -13,7 +13,7 @@
 
 
 - 💻 &nbsp; Java 
-- 🛢 &nbsp;  
+- 🛢 &nbsp;  Oracle
 - 🔧 &nbsp; Eclipse | Git
 
 
